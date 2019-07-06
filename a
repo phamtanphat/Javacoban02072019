@@ -55,5 +55,26 @@ class Ideone
 		// 		System.out.println(" i = " + i );
 
 		// }
+		int[] numbers = {1,2,3};
+		// int value = numbers[0];
+		// System.out.print(value);
+		// int i , j = 0;
+		// for(i= j= 1; i< 10 && j < 10; i+=2 , ++j){
+		// 	System.out.println("Số lẻ " + i);
+		// 	System.out.println("" + j);
+		// }
+		// for(int value : numbers){
+		// 	System.out.print(value);
+		// }
+		//Nguyên thủy : chữ cái đầu viết thường
+		// Integer number = 20;
+		// String ten = " Pham tan phat";
+		// int a = 10;
+		// System.out.print(Math.pow(a , 2));
+		// int a = 10;
+		// while(a > 0){
+		// 	System.out.println("Xin chào " + a);
+		// 	a--;
+		// }
 	}
 }
